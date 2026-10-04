@@ -1,0 +1,914 @@
+[
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/flag.png",
+    "alt": "",
+    "file": "flag.png",
+    "local": "/images/flag.png",
+    "bytes": 1130,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/High-Resolution.png",
+    "alt": "marutihiring",
+    "file": "High-Resolution.png",
+    "local": "/images/High-Resolution.png",
+    "bytes": 16898,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/Website-Image-1.png",
+    "alt": "Website Image 1",
+    "file": "Website-Image-1.png",
+    "local": "/images/Website-Image-1.png",
+    "bytes": 80586,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/02/Website-Image-4-1.png",
+    "alt": "Website Image 4 1",
+    "file": "Website-Image-4-1.png",
+    "local": "/images/Website-Image-4-1.png",
+    "bytes": 99920,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/Group-shape-left.png",
+    "alt": "",
+    "file": "Group-shape-left.png",
+    "local": "/images/Group-shape-left.png",
+    "bytes": 3402,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/Web-Image-826x606-1-1.png",
+    "alt": "Web Image 826x606 1 1",
+    "file": "Web-Image-826x606-1-1.png",
+    "local": "/images/Web-Image-826x606-1-1.png",
+    "bytes": 99880,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/Web-Image-826x606-1-1-300x220.png",
+    "alt": "Web Image 826x606 1 1",
+    "file": "Web-Image-826x606-1-1-300x220.png",
+    "local": "/images/Web-Image-826x606-1-1-300x220.png",
+    "bytes": 15582,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/Web-Image-826x606-1-1-768x563.png",
+    "alt": "Web Image 826x606 1 1",
+    "file": "Web-Image-826x606-1-1-768x563.png",
+    "local": "/images/Web-Image-826x606-1-1-768x563.png",
+    "bytes": 81998,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/Web-Image-826x606-1-1-600x440.png",
+    "alt": "Web Image 826x606 1 1",
+    "file": "Web-Image-826x606-1-1-600x440.png",
+    "local": "/images/Web-Image-826x606-1-1-600x440.png",
+    "bytes": 52950,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/10-KVA-1.png",
+    "alt": "10 KVA 1",
+    "file": "10-KVA-1.png",
+    "local": "/images/10-KVA-1.png",
+    "bytes": 58142,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/10-KVA-1-300x268.png",
+    "alt": "10 KVA Diesel Generator on Rent",
+    "file": "10-KVA-1-300x268.png",
+    "local": "/images/10-KVA-1-300x268.png",
+    "bytes": 17664,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/10-KVA-2.png",
+    "alt": "10 KVA Diesel Generator on Rent - Image 2",
+    "file": "10-KVA-2.png",
+    "local": "/images/10-KVA-2.png",
+    "bytes": 65568,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/10-KVA-2-300x268.png",
+    "alt": "10 KVA Diesel Generator on Rent - Image 2",
+    "file": "10-KVA-2-300x268.png",
+    "local": "/images/10-KVA-2-300x268.png",
+    "bytes": 21086,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/10-KVA-3.png",
+    "alt": "10 KVA Diesel Generator on Rent - Image 3",
+    "file": "10-KVA-3.png",
+    "local": "/images/10-KVA-3.png",
+    "bytes": 66658,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/10-KVA-3-300x268.png",
+    "alt": "10 KVA Diesel Generator on Rent - Image 3",
+    "file": "10-KVA-3-300x268.png",
+    "local": "/images/10-KVA-3-300x268.png",
+    "bytes": 21896,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/25-KVA1.webp",
+    "alt": "25 KVA1",
+    "file": "25-KVA1.webp",
+    "local": "/images/25-KVA1.webp",
+    "bytes": 24070,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/25-KVA1-300x268.webp",
+    "alt": "25 KVA Diesel Generator on Rent",
+    "file": "25-KVA1-300x268.webp",
+    "local": "/images/25-KVA1-300x268.webp",
+    "bytes": 6132,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/25-KVA2.webp",
+    "alt": "25 KVA Diesel Generator on Rent - Image 2",
+    "file": "25-KVA2.webp",
+    "local": "/images/25-KVA2.webp",
+    "bytes": 82044,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/25-KVA2-300x268.webp",
+    "alt": "25 KVA Diesel Generator on Rent - Image 2",
+    "file": "25-KVA2-300x268.webp",
+    "local": "/images/25-KVA2-300x268.webp",
+    "bytes": 17330,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/25-KVA3.webp",
+    "alt": "25 KVA Diesel Generator on Rent - Image 3",
+    "file": "25-KVA3.webp",
+    "local": "/images/25-KVA3.webp",
+    "bytes": 26504,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/25-KVA3-300x268.webp",
+    "alt": "25 KVA Diesel Generator on Rent - Image 3",
+    "file": "25-KVA3-300x268.webp",
+    "local": "/images/25-KVA3-300x268.webp",
+    "bytes": 7666,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/25-KVA1-1.webp",
+    "alt": "25 KVA1 1",
+    "file": "25-KVA1-1.webp",
+    "local": "/images/25-KVA1-1.webp",
+    "bytes": 24070,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/25-KVA1-1-300x268.webp",
+    "alt": "40 KVA Diesel Generator on Rent",
+    "file": "25-KVA1-1-300x268.webp",
+    "local": "/images/25-KVA1-1-300x268.webp",
+    "bytes": 6132,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/62.5-KVA-1.webp",
+    "alt": "62.5 KVA 1",
+    "file": "62.5-KVA-1.webp",
+    "local": "/images/62.5-KVA-1.webp",
+    "bytes": 109210,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/62.5-KVA-1-300x268.webp",
+    "alt": "62.5 KVA Diesel Generator on Rent",
+    "file": "62.5-KVA-1-300x268.webp",
+    "local": "/images/62.5-KVA-1-300x268.webp",
+    "bytes": 22084,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/62.5-KVA-2.webp",
+    "alt": "62.5 KVA Diesel Generator on Rent - Image 2",
+    "file": "62.5-KVA-2.webp",
+    "local": "/images/62.5-KVA-2.webp",
+    "bytes": 66046,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/62.5-KVA-2-300x268.webp",
+    "alt": "62.5 KVA Diesel Generator on Rent - Image 2",
+    "file": "62.5-KVA-2-300x268.webp",
+    "local": "/images/62.5-KVA-2-300x268.webp",
+    "bytes": 12438,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/62.5-KVA-3.webp",
+    "alt": "62.5 KVA Diesel Generator on Rent - Image 3",
+    "file": "62.5-KVA-3.webp",
+    "local": "/images/62.5-KVA-3.webp",
+    "bytes": 79712,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/62.5-KVA-3-300x268.webp",
+    "alt": "62.5 KVA Diesel Generator on Rent - Image 3",
+    "file": "62.5-KVA-3-300x268.webp",
+    "local": "/images/62.5-KVA-3-300x268.webp",
+    "bytes": 16310,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/125-KVA-1.webp",
+    "alt": "125 KVA 1",
+    "file": "125-KVA-1.webp",
+    "local": "/images/125-KVA-1.webp",
+    "bytes": 104512,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/125-KVA-1-300x268.webp",
+    "alt": "125 KVA Diesel Generator on Rent",
+    "file": "125-KVA-1-300x268.webp",
+    "local": "/images/125-KVA-1-300x268.webp",
+    "bytes": 19144,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/125-KVA-2.webp",
+    "alt": "125 KVA Diesel Generator on Rent - Image 2",
+    "file": "125-KVA-2.webp",
+    "local": "/images/125-KVA-2.webp",
+    "bytes": 81986,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/125-KVA-2-300x268.webp",
+    "alt": "125 KVA Diesel Generator on Rent - Image 2",
+    "file": "125-KVA-2-300x268.webp",
+    "local": "/images/125-KVA-2-300x268.webp",
+    "bytes": 14256,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/125-KVA-3.webp",
+    "alt": "125 KVA Diesel Generator on Rent - Image 3",
+    "file": "125-KVA-3.webp",
+    "local": "/images/125-KVA-3.webp",
+    "bytes": 106214,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/125-KVA-3-300x268.webp",
+    "alt": "125 KVA Diesel Generator on Rent - Image 3",
+    "file": "125-KVA-3-300x268.webp",
+    "local": "/images/125-KVA-3-300x268.webp",
+    "bytes": 16654,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA-1.jpg",
+    "alt": "250 KVA 1",
+    "file": "250-KVA-1.jpg",
+    "local": "/images/250-KVA-1.jpg",
+    "bytes": 46650,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA-1-300x268.jpg",
+    "alt": "250 KVA Diesel Generator on Rent",
+    "file": "250-KVA-1-300x268.jpg",
+    "local": "/images/250-KVA-1-300x268.jpg",
+    "bytes": 12408,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA-2.jpg",
+    "alt": "250 KVA Diesel Generator on Rent - Image 2",
+    "file": "250-KVA-2.jpg",
+    "local": "/images/250-KVA-2.jpg",
+    "bytes": 50874,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA-2-300x268.jpg",
+    "alt": "250 KVA Diesel Generator on Rent - Image 2",
+    "file": "250-KVA-2-300x268.jpg",
+    "local": "/images/250-KVA-2-300x268.jpg",
+    "bytes": 13234,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA3.png",
+    "alt": "250 KVA Diesel Generator on Rent - Image 3",
+    "file": "250-KVA3.png",
+    "local": "/images/250-KVA3.png",
+    "bytes": 61570,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA3-300x268.png",
+    "alt": "250 KVA Diesel Generator on Rent - Image 3",
+    "file": "250-KVA3-300x268.png",
+    "local": "/images/250-KVA3-300x268.png",
+    "bytes": 18712,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA-1-1.jpg",
+    "alt": "250 KVA 1 1",
+    "file": "250-KVA-1-1.jpg",
+    "local": "/images/250-KVA-1-1.jpg",
+    "bytes": 46650,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA-1-1-300x268.jpg",
+    "alt": "320 KVA Diesel Generator on Rent",
+    "file": "250-KVA-1-1-300x268.jpg",
+    "local": "/images/250-KVA-1-1-300x268.jpg",
+    "bytes": 12408,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA-2-1.jpg",
+    "alt": "320 KVA Diesel Generator on Rent - Image 2",
+    "file": "250-KVA-2-1.jpg",
+    "local": "/images/250-KVA-2-1.jpg",
+    "bytes": 50874,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA-2-1-300x268.jpg",
+    "alt": "320 KVA Diesel Generator on Rent - Image 2",
+    "file": "250-KVA-2-1-300x268.jpg",
+    "local": "/images/250-KVA-2-1-300x268.jpg",
+    "bytes": 13234,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA3-1.png",
+    "alt": "320 KVA Diesel Generator on Rent - Image 3",
+    "file": "250-KVA3-1.png",
+    "local": "/images/250-KVA3-1.png",
+    "bytes": 61570,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/250-KVA3-1-300x268.png",
+    "alt": "320 KVA Diesel Generator on Rent - Image 3",
+    "file": "250-KVA3-1-300x268.png",
+    "local": "/images/250-KVA3-1-300x268.png",
+    "bytes": 18712,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/500-KVA-1.webp",
+    "alt": "500 KVA 1",
+    "file": "500-KVA-1.webp",
+    "local": "/images/500-KVA-1.webp",
+    "bytes": 118858,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/500-KVA-1-300x268.webp",
+    "alt": "500 KVA Diesel Generator on Rent",
+    "file": "500-KVA-1-300x268.webp",
+    "local": "/images/500-KVA-1-300x268.webp",
+    "bytes": 21340,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/500-KVA2.webp",
+    "alt": "500 KVA Diesel Generator on Rent - Image 2",
+    "file": "500-KVA2.webp",
+    "local": "/images/500-KVA2.webp",
+    "bytes": 76666,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/500-KVA2-300x268.webp",
+    "alt": "500 KVA Diesel Generator on Rent - Image 2",
+    "file": "500-KVA2-300x268.webp",
+    "local": "/images/500-KVA2-300x268.webp",
+    "bytes": 11848,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/500-KVA3.webp",
+    "alt": "500 KVA Diesel Generator on Rent - Image 3",
+    "file": "500-KVA3.webp",
+    "local": "/images/500-KVA3.webp",
+    "bytes": 98402,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/500-KVA3-300x268.webp",
+    "alt": "500 KVA Diesel Generator on Rent - Image 3",
+    "file": "500-KVA3-300x268.webp",
+    "local": "/images/500-KVA3-300x268.webp",
+    "bytes": 15180,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/625-750-KVA-1.webp",
+    "alt": "625 750 KVA 1",
+    "file": "625-750-KVA-1.webp",
+    "local": "/images/625-750-KVA-1.webp",
+    "bytes": 53848,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/625-750-KVA-1-300x268.webp",
+    "alt": "625 KVA Diesel Generator on Rent",
+    "file": "625-750-KVA-1-300x268.webp",
+    "local": "/images/625-750-KVA-1-300x268.webp",
+    "bytes": 10472,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/625-750-KVA-2.webp",
+    "alt": "625 KVA Diesel Generator on Rent - Image 2",
+    "file": "625-750-KVA-2.webp",
+    "local": "/images/625-750-KVA-2.webp",
+    "bytes": 20264,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/625-750-KVA-2-300x268.webp",
+    "alt": "625 KVA Diesel Generator on Rent - Image 2",
+    "file": "625-750-KVA-2-300x268.webp",
+    "local": "/images/625-750-KVA-2-300x268.webp",
+    "bytes": 4798,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/625-750-KVA-3.webp",
+    "alt": "625 KVA Diesel Generator on Rent - Image 3",
+    "file": "625-750-KVA-3.webp",
+    "local": "/images/625-750-KVA-3.webp",
+    "bytes": 75250,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/625-750-KVA-3-300x268.webp",
+    "alt": "625 KVA Diesel Generator on Rent - Image 3",
+    "file": "625-750-KVA-3-300x268.webp",
+    "local": "/images/625-750-KVA-3-300x268.webp",
+    "bytes": 12666,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/product-01.jpg",
+    "alt": "product 01",
+    "file": "product-01.jpg",
+    "local": "/images/product-01.jpg",
+    "bytes": 24856,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/product-01-300x268.jpg",
+    "alt": "750 KVA Diesel Generator on Rent",
+    "file": "product-01-300x268.jpg",
+    "local": "/images/product-01-300x268.jpg",
+    "bytes": 9484,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/product-03.jpg",
+    "alt": "750 KVA Diesel Generator on Rent - Image 2",
+    "file": "product-03.jpg",
+    "local": "/images/product-03.jpg",
+    "bytes": 22126,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/product-03-300x300.jpg",
+    "alt": "750 KVA Diesel Generator on Rent - Image 2",
+    "file": "product-03-300x300.jpg",
+    "local": "/images/product-03-300x300.jpg",
+    "bytes": 10126,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/product-03-150x150.jpg",
+    "alt": "750 KVA Diesel Generator on Rent - Image 2",
+    "file": "product-03-150x150.jpg",
+    "local": "/images/product-03-150x150.jpg",
+    "bytes": 4220,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/03/product-09.jpg",
+    "alt": "750 KVA Diesel Generator on Rent - Image 3",
+    "file": "product-09.jpg",
+    "local": "/images/product-09.jpg",
+    "bytes": 28712,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/03/product-09-300x293.jpg",
+    "alt": "750 KVA Diesel Generator on Rent - Image 3",
+    "file": "product-09-300x293.jpg",
+    "local": "/images/product-09-300x293.jpg",
+    "bytes": 13192,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1010-KVA-1.webp",
+    "alt": "1010 KVA 1",
+    "file": "1010-KVA-1.webp",
+    "local": "/images/1010-KVA-1.webp",
+    "bytes": 87988,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1010-KVA-1-300x268.webp",
+    "alt": "1010 KVA Diesel Generator on Rent",
+    "file": "1010-KVA-1-300x268.webp",
+    "local": "/images/1010-KVA-1-300x268.webp",
+    "bytes": 15322,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1010-KVA-2.webp",
+    "alt": "1010 KVA Diesel Generator on Rent - Image 2",
+    "file": "1010-KVA-2.webp",
+    "local": "/images/1010-KVA-2.webp",
+    "bytes": 21010,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1010-KVA-2-300x268.webp",
+    "alt": "1010 KVA Diesel Generator on Rent - Image 2",
+    "file": "1010-KVA-2-300x268.webp",
+    "local": "/images/1010-KVA-2-300x268.webp",
+    "bytes": 5058,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1010-KVA-3.webp",
+    "alt": "1010 KVA Diesel Generator on Rent - Image 3",
+    "file": "1010-KVA-3.webp",
+    "local": "/images/1010-KVA-3.webp",
+    "bytes": 32506,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1010-KVA-3-300x268.webp",
+    "alt": "1010 KVA Diesel Generator on Rent - Image 3",
+    "file": "1010-KVA-3-300x268.webp",
+    "local": "/images/1010-KVA-3-300x268.webp",
+    "bytes": 8370,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1250-12.webp",
+    "alt": "1250 12",
+    "file": "1250-12.webp",
+    "local": "/images/1250-12.webp",
+    "bytes": 55444,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1250-12-300x268.webp",
+    "alt": "1250 KVA Diesel Generator on Rent",
+    "file": "1250-12-300x268.webp",
+    "local": "/images/1250-12-300x268.webp",
+    "bytes": 10774,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1250-2.webp",
+    "alt": "1250 KVA Diesel Generator on Rent - Image 2",
+    "file": "1250-2.webp",
+    "local": "/images/1250-2.webp",
+    "bytes": 22634,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1250-2-300x268.webp",
+    "alt": "1250 KVA Diesel Generator on Rent - Image 2",
+    "file": "1250-2-300x268.webp",
+    "local": "/images/1250-2-300x268.webp",
+    "bytes": 5050,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1250-3.webp",
+    "alt": "1250 KVA Diesel Generator on Rent - Image 3",
+    "file": "1250-3.webp",
+    "local": "/images/1250-3.webp",
+    "bytes": 100082,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1250-3-300x268.webp",
+    "alt": "1250 KVA Diesel Generator on Rent - Image 3",
+    "file": "1250-3-300x268.webp",
+    "local": "/images/1250-3-300x268.webp",
+    "bytes": 17378,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1500-1.webp",
+    "alt": "1500 1",
+    "file": "1500-1.webp",
+    "local": "/images/1500-1.webp",
+    "bytes": 65838,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1500-1-300x268.webp",
+    "alt": "1500 KVA Diesel Generator on Rent",
+    "file": "1500-1-300x268.webp",
+    "local": "/images/1500-1-300x268.webp",
+    "bytes": 13412,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1500-2.webp",
+    "alt": "1500 KVA Diesel Generator on Rent - Image 5",
+    "file": "1500-2.webp",
+    "local": "/images/1500-2.webp",
+    "bytes": 135366,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1500-2-300x268.webp",
+    "alt": "1500 KVA Diesel Generator on Rent - Image 5",
+    "file": "1500-2-300x268.webp",
+    "local": "/images/1500-2-300x268.webp",
+    "bytes": 20954,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1500-3.webp",
+    "alt": "1500 KVA Diesel Generator on Rent - Image 6",
+    "file": "1500-3.webp",
+    "local": "/images/1500-3.webp",
+    "bytes": 41320,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1500-3-300x268.webp",
+    "alt": "1500 KVA Diesel Generator on Rent - Image 6",
+    "file": "1500-3-300x268.webp",
+    "local": "/images/1500-3-300x268.webp",
+    "bytes": 6966,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/Apple-button.png",
+    "alt": "Apple button",
+    "file": "Apple-button.png",
+    "local": "/images/Apple-button.png",
+    "bytes": 2240,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/Google-button.png",
+    "alt": "Google button",
+    "file": "Google-button.png",
+    "local": "/images/Google-button.png",
+    "bytes": 2016,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/Google-button-150x47.png",
+    "alt": "Google button",
+    "file": "Google-button-150x47.png",
+    "local": "/images/Google-button-150x47.png",
+    "bytes": 1930,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/excavator.png",
+    "alt": "",
+    "file": "excavator.png",
+    "local": "/images/excavator.png",
+    "bytes": 28936,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/excavator-300x174.png",
+    "alt": "",
+    "file": "excavator-300x174.png",
+    "local": "/images/excavator-300x174.png",
+    "bytes": 16378,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/1.png",
+    "alt": "1",
+    "file": "1.png",
+    "local": "/images/1.png",
+    "bytes": 4238,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/2.png",
+    "alt": "2",
+    "file": "2.png",
+    "local": "/images/2.png",
+    "bytes": 3830,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/3.png",
+    "alt": "3",
+    "file": "3.png",
+    "local": "/images/3.png",
+    "bytes": 3342,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/4.png",
+    "alt": "4",
+    "file": "4.png",
+    "local": "/images/4.png",
+    "bytes": 2564,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/5.png",
+    "alt": "5",
+    "file": "5.png",
+    "local": "/images/5.png",
+    "bytes": 2334,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/6.png",
+    "alt": "6",
+    "file": "6.png",
+    "local": "/images/6.png",
+    "bytes": 3190,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/7.png",
+    "alt": "7",
+    "file": "7.png",
+    "local": "/images/7.png",
+    "bytes": 2898,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/8.png",
+    "alt": "8",
+    "file": "8.png",
+    "local": "/images/8.png",
+    "bytes": 2800,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/9.png",
+    "alt": "9",
+    "file": "9.png",
+    "local": "/images/9.png",
+    "bytes": 4184,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/10.png",
+    "alt": "10",
+    "file": "10.png",
+    "local": "/images/10.png",
+    "bytes": 3362,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/11.png",
+    "alt": "11",
+    "file": "11.png",
+    "local": "/images/11.png",
+    "bytes": 4106,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/12.png",
+    "alt": "12",
+    "file": "12.png",
+    "local": "/images/12.png",
+    "bytes": 4478,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/13.png",
+    "alt": "13",
+    "file": "13.png",
+    "local": "/images/13.png",
+    "bytes": 1706,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2025/12/14.png",
+    "alt": "14",
+    "file": "14.png",
+    "local": "/images/14.png",
+    "bytes": 2004,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/1-6-1.png",
+    "alt": "1 6 1",
+    "file": "1-6-1.png",
+    "local": "/images/1-6-1.png",
+    "bytes": 85204,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/2-6-1.png",
+    "alt": "2 6 1",
+    "file": "2-6-1.png",
+    "local": "/images/2-6-1.png",
+    "bytes": 68696,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/3-1.png",
+    "alt": "3 1",
+    "file": "3-1.png",
+    "local": "/images/3-1.png",
+    "bytes": 81306,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/4-1.png",
+    "alt": "4 1",
+    "file": "4-1.png",
+    "local": "/images/4-1.png",
+    "bytes": 78560,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/5-1.png",
+    "alt": "5 1",
+    "file": "5-1.png",
+    "local": "/images/5-1.png",
+    "bytes": 109628,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/6-1.png",
+    "alt": "6 1",
+    "file": "6-1.png",
+    "local": "/images/6-1.png",
+    "bytes": 52844,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/our-team.jpg",
+    "alt": "Robert J. Hare",
+    "file": "our-team.jpg",
+    "local": "/images/our-team.jpg",
+    "bytes": 19530,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/team3.jpg",
+    "alt": "Aleesha Smith",
+    "file": "team3.jpg",
+    "local": "/images/team3.jpg",
+    "bytes": 13774,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2024/02/team4.jpg",
+    "alt": "Mike Hardson",
+    "file": "team4.jpg",
+    "local": "/images/team4.jpg",
+    "bytes": 12398,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/02/5Z9A5242-768x660.jpg",
+    "alt": "Power Backup for Hospitals in Gujarat: Why Reliable DG Sets Matter",
+    "file": "5Z9A5242-768x660.jpg",
+    "local": "/images/5Z9A5242-768x660.jpg",
+    "bytes": 112612,
+    "error": null
+  },
+  {
+    "url": "https://marutihiring.com/wp-content/uploads/2026/01/White-High-resolution-logo.png",
+    "alt": "marutihiring",
+    "file": "White-High-resolution-logo.png",
+    "local": "/images/White-High-resolution-logo.png",
+    "bytes": 9986,
+    "error": null
+  }
+]
