@@ -1,16 +1,22 @@
-# Maruti Enterprise — GitHub Pages export
+# Maruti Enterprise website
 
-This archive contains the built, static website and a GitHub Actions workflow for publishing it with GitHub Pages. It includes the homepage, service pages, images, CSS/JavaScript, SEO metadata, sitemap, and robots file.
+Static site, ready for GitHub Pages. Live address once published:
+https://mananparmarwork-byte.github.io/Maruti-Enterprise/
 
-## Upload and publish
+## Upload to GitHub
 
-1. Create a GitHub repository for the website.
-2. Extract this archive and copy **all contents** (including `.github` and `.nojekyll`) into the repository root. Do not upload only the ZIP file.
-3. Commit and push the files to the repository's `main` branch. GitHub Desktop is an easy way to upload the extracted folder.
-4. In the repository, open **Settings → Pages** and set the source to **GitHub Actions**. The included workflow publishes the site after each push to `main`.
+1. Create a new **public** repository named exactly `Maruti-Enterprise` (capital M and E).
+2. Unzip this archive and upload **everything inside the folder** to the repository root,
+   including the hidden `.github` folder and `.nojekyll`. (Do not upload the ZIP itself.)
+   - Easiest: GitHub Desktop, or `git add . && git commit -m "Publish site" && git push origin main`.
+   - Do not use drag-and-drop in the browser: it skips hidden folders like `.github`.
+3. In the repo go to **Settings -> Pages -> Build and deployment -> Source: GitHub Actions**.
+4. Open the **Actions** tab, wait for "Publish website to GitHub Pages" to turn green (1-2 min).
 
-## Domain note
+## Using a different repository name or a custom domain
 
-This build retains the site's configured canonical URLs and sitemap for `https://marutienterprise.org/`. It is intended to be served at the root of that domain. If you control the domain, add it under **Settings → Pages → Custom domain** and configure the DNS records GitHub shows there.
-
-A default GitHub project address such as `username.github.io/repository-name/` uses a subpath; this export's root-based asset paths are not configured for that subpath. If you want to use that address instead of a custom domain, rebuild with the repository name as the base path.
+Paths are set for `/Maruti-Enterprise/`. If you rename the repo, replace `/Maruti-Enterprise`
+with `/<new-name>` in every `.html` file and in `assets/index-*.js`
+(also the `base:"/Maruti-Enterprise"` setting inside that JS file).
+For a root domain (e.g. marutienterprise.org), replace `/Maruti-Enterprise` with an empty string
+and set `base:""`.
