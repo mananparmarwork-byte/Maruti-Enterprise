@@ -62,3 +62,22 @@
 .capacity-card{touch-action:pan-x pan-y}
 @media(hover:none){.capacity-card:hover:not(.capacity-card-selected){transform:none;border-color:#e0e3e5;box-shadow:0 8px 22px #252a300e}}
 @media(max-width:820px){.capacity-rail{scroll-snap-type:x proximity;scroll-padding-inline:2px}}
+
+/* --- mobile hero: logo banner on top, centred copy, aligned full-width buttons --- */
+@media(max-width:720px){
+ .hero{display:flex;flex-direction:column;min-height:0;background:#252A30}
+ .hero-photo{position:relative;inset:auto;z-index:-2;display:block;width:100%;height:clamp(210px,62vw,270px);object-fit:cover;object-position:100% 38%;flex:none}
+ .hero:before{inset:0 0 auto 0;height:clamp(210px,62vw,270px);background:linear-gradient(180deg,rgba(28,31,35,.35) 0,rgba(28,31,35,0) 38%,rgba(37,42,48,.55) 78%,#252A30 100%)}
+ .hero-inner{display:block;min-height:0;padding:6px 0 34px;margin-top:-6px}
+ .hero-copy{max-width:none;text-align:center}
+ .hero .eyebrow{display:block;font-size:10.5px;letter-spacing:.16em;line-height:1.5}
+ .hero .eyebrow:before{display:none}
+ .hero h1{font-size:clamp(34px,11.4vw,52px);line-height:1.04;margin:14px 0 16px}
+ .hero-lede{font-size:14.5px;line-height:1.7;max-width:34em;margin-inline:auto}
+ .hero-actions{display:grid;grid-template-columns:1fr;gap:12px;width:100%;max-width:none;margin:26px 0 0}
+ .hero-actions>a,.hero-actions .button-primary,.hero-actions .button-outline{box-sizing:border-box;display:flex;align-items:center;justify-content:center;gap:10px;width:100%;min-height:52px;margin:0;padding:0 18px;text-align:center;font-size:14px}
+ .hero-stamp{justify-content:center;text-align:center;margin-top:24px;font-size:9.5px;line-height:1.7;max-width:30em;margin-inline:auto}
+ .hero-stamp:before{display:none}
+}
+@media(max-width:360px){.hero-actions>a{font-size:13px}}
+@media(max-width:360px){.nav-inner{gap:10px}.brand{gap:8px;min-width:0;flex:1 1 auto}.brand-name{font-size:13px;letter-spacing:0;white-space:nowrap}.brand img{width:34px;height:34px}.nav-actions{gap:6px;flex:none}.nav-cta{padding:10px}}
