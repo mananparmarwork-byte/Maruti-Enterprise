@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mananparmarwork-byte.github.io/Maruti-Enterprise/sitemap.xml
